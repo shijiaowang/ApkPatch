@@ -1,0 +1,14 @@
+gen/*
+bin/*
+obj/*
+
+ApkPatchLibraryDemo/bin/*
+ApkPatchLibraryDemo/gen/*
+
+ApkPatchLibraryDemo2/bin/*
+ApkPatchLibraryDemo2/gen/*
+
+ApkPatchLibraryServer/bin/*
+ApkPatchLibraryServer/Debug/*
+ApkPatchLibraryServer/Release/*
+.DS_Store
